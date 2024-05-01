@@ -7,7 +7,11 @@ Objective : Insights on HR analytics which provide Employee Demographics, Turnov
 Tools : SQL & Microsoft Power BI
 
 Four Dashbaords :
+
 Employee Demographics.
+
 Turnover(1) on the basis of Department, Job Roles and Total Attrition.
+
 Turnover(2) on the basis of Monthly Income, Job Level, Age & Gender, and performance.
-Employee Wellness
+
+Employee Wellness.
